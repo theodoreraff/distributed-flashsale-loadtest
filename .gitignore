@@ -9,4 +9,4 @@ env/
 .env
 
 # Logs
-*.log
+*.log.idea/
