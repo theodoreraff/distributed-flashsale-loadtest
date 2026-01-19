@@ -1,0 +1,1 @@
+from scenarios.flashsale_user import FlashSaleUser
